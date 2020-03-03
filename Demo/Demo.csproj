@@ -75,7 +75,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ViewModel\TreeViewModel.cs" />
     <Compile Include="ViewModel\ColorItemViewModel.cs" />
     <Compile Include="TypeTemplateSelector.cs" />
     <Compile Include="ViewModel\TreeItemViewModel.cs" />

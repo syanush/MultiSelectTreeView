@@ -5,7 +5,7 @@ using System.Reflection;
 namespace Demo.ViewModel
 {
 	/// <summary>
-	/// Sample base class for tree items view models. All specialized tree item view model classes
+	/// Sample base class for tree items view models. All specialised tree item view model classes
 	/// should inherit from this class.
 	/// </summary>
 	[Obfuscation(Exclude = true, ApplyToMembers = false, Feature = "renaming")]
